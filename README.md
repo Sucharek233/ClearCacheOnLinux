@@ -1,8 +1,8 @@
 With this script, you can clear cached/buffed RAM on Linux.
 
-The setup file will move the main script into ~/Scripts/clearswaporram/clearswaporram.sh
+The setup file will move the main script into ~/Scripts/clearam/clearam.sh
 
-The icon will be moved to ~/Scripts/clearswaporram/icon.png
+The icon will be moved to ~/Scripts/clearam/icon.png
 
 It will make a .desktop file, which will be created on your desktop.
 
