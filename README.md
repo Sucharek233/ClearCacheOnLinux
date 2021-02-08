@@ -1,4 +1,4 @@
-With this script, you can clear swap or RAM on linux.
+With this script, you can clear cached/buffed RAM on Linux.
 
 The setup file will move the main script into ~/Scripts/clearswaporram/clearswaporram.sh
 
@@ -8,4 +8,4 @@ It will make a .desktop file, which will be created on your desktop.
 
 It will also copy it to /usr/share/applications and ~/.local/share/applications so you can access it from your start menu.
 
-Enjoy clearing!
+Happy clearing!
