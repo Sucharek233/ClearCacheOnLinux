@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Clear RAM
+Comment=Clear Cached/Buffed RAM
+Exec=sh clearam.sh
+Icon=~/Scripts/clearam/icon.png
+Path=~/Scripts/clearam
+Terminal=true
+StartupNotify=false
